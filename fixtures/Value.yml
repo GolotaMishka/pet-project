@@ -1,0 +1,5 @@
+entity: Value
+items:
+  value{1..10}:
+    id: '($current)'
+    name: '{{lorem.paragraphs}}'
