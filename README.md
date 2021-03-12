@@ -1,1 +1,1 @@
-# pet-project
+# pet-project Node.js + PostgreSQL 
